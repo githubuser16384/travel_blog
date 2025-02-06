@@ -1,0 +1,34 @@
+Objective
+Design and develop a multi-page website for a travel blog using HTML and CSS. The website should provide users with an engaging and seamless experience, featuring intuitive navigation, responsive design, multimedia elements, and interactive components.
+
+Requirements
+Website Structure:
+Create a website with the following pages:
+
+Home Page:
+A welcoming landing page that includes a background video.
+A navigation bar that links to all other pages.
+About Page:
+A page that tells the story of the travel blog.
+Include information about the blog's creator (e.g., "Created by: Ankur Kumar Muduli") and the mission of the blog.
+Blog Page:
+A page that lists travel posts or adventures.
+Each blog post should include a title, a brief description, and a "Read More" link to the full post.
+Contact Page:
+A page with a contact form to collect user inputs such as Name, Email, and Query.
+Ensure the form includes basic validations using HTML attributes (e.g., required).
+Navigation Bar:
+
+Implement a consistent navigation bar on every page.
+The navigation bar should include links for: Home, About, Blog, and Contact Us.
+Use clear and descriptive link names.
+Layout and Styling:
+
+External CSS:
+All styling should be done in an external CSS file (e.g., style.css).
+Flexbox:
+Utilize Flexbox to align elements, especially for the layout of menu items on the Blog page and any other content that requires responsive alignment.
+Responsive Design:
+Ensure your website is responsive and adapts gracefully to various screen sizes and devices.
+Multimedia Integration:
+Incorporate multimedia elements, such as a background video on the Home page and images on other pages (e.g., blog posts or team member photos).
