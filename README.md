@@ -1,1 +1,1 @@
-[![Demo Video]]({https://drive.google.com/file/d/18czZ56Tt0lKCgxxS3hH71YgLJtUKOLMn/view?usp=sharing} "Demo video")
+<a href="{https://drive.google.com/file/d/18czZ56Tt0lKCgxxS3hH71YgLJtUKOLMn/view?usp=sharing}" title="Link Title"><img src="{https://drive.google.com/file/d/18czZ56Tt0lKCgxxS3hH71YgLJtUKOLMn/view?usp=sharing}" alt="Alternate Text" /></a>
